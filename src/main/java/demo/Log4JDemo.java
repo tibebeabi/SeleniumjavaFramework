@@ -9,7 +9,9 @@ public class Log4JDemo {
 
 	public static void main(String[] args) {
 
-		System.out.println("\n  Hello git...!    \n");
+		System.out.println("\n  Hello World...!    \n");
+		System.out.println("\n Hello tibebe...!   \n");
+		
 		
 
 		logger.trace("This is trace message");
