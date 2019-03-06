@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="11930" started-at="2019-02-28T20:39:40Z" finished-at="2019-02-28T20:39:52Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="11930" started-at="2019-02-28T20:39:40Z" finished-at="2019-02-28T20:39:52Z">
+      <class name="test.TestNG_Demo">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:test.TestNG_Demo@31ef45e3]" name="setUpTest" is-config="true" duration-ms="2992" started-at="2019-02-28T20:39:40Z" finished-at="2019-02-28T20:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:test.TestNG_Demo2@598067a5]" name="setUpTest" is-config="true" duration-ms="2090" started-at="2019-02-28T20:39:43Z" finished-at="2019-02-28T20:39:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:test.TestNG_Demo@31ef45e3]" name="googleSearch" duration-ms="3217" started-at="2019-02-28T20:39:45Z" finished-at="2019-02-28T20:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:test.TestNG_Demo@31ef45e3]" name="tearDownTest" is-config="true" duration-ms="640" started-at="2019-02-28T20:39:49Z" finished-at="2019-02-28T20:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:test.TestNG_Demo2@598067a5]" name="tearDownTest" is-config="true" duration-ms="2667" started-at="2019-02-28T20:39:49Z" finished-at="2019-02-28T20:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.TestNG_Demo -->
+      <class name="test.TestNG_Demo2">
+        <test-method status="PASS" signature="googleSearch3()[pri:0, instance:test.TestNG_Demo2@598067a5]" name="googleSearch3" duration-ms="3521" started-at="2019-02-28T20:39:45Z" finished-at="2019-02-28T20:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch3 -->
+      </class> <!-- test.TestNG_Demo2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
